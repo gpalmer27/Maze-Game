@@ -1,5 +1,7 @@
 # Maze Game
-This assignment was created as an assignment for Northeastern's Acclerated Fundamentals of Computer Science II course. By instructor policy, source code can be accessed only by request.
+As a part of my Fundamentals of Computer Science II course, I worked with a partner to make a maze game in Java that users can interact with. To make this project, we used our knowledge of Kruskal's Algorithm, Breadth-First Search, and Depth-First Search to animate the creation of the maze and the process of solving the maze. Users can also use the arrow keys to solve the maze manually, and once the maze is completed, the squares in the solved path are colored dark blue.
+
+By instructor policy, source code can be accessed only by request.
 
 # Demo
 
